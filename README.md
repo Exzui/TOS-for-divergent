@@ -48,7 +48,7 @@ Server owners and administrators are responsible for the Bot’s configuration a
 
 # 6. Changes to the Terms
 
-We reserve the right to modify these Terms of Service at any time. Changes will be announced in [Insert Channel or Announcement Method]. Continued use of the Bot constitutes acceptance of updated terms.
+We reserve the right to modify these Terms of Service at any time. Changes will be announced in #news. Continued use of the Bot constitutes acceptance of updated terms.
 
 # 7. Termination
 
